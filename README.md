@@ -1,5 +1,6 @@
 # codealpha-frontend-development-internship
-In this internship,I have performed the  task given by CodeAlpha
+In this internship,I have completed  the  task given by CodeAlpha
+
 Tasks:
 
 
