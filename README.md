@@ -14,6 +14,7 @@ need to design a user interface with buttons for
 entering data and a display screen for
 displaying the results.
 
+
 2)Image gallery
 
 This project is a responsive image gallery that allows
@@ -23,6 +24,7 @@ thumbnails that can be clicked to display the corresponding image.
 
 
 3)Music player using JavaScript
+
 The architecture, which is divided into three buckets,
 will be used: CSS (Cascading Style Sheets (adding
 styling to each element defined in the HTML file)
